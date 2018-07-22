@@ -11,3 +11,6 @@ admin, admin
 
 To run this example
 mvn compile exec:java
+
+The queued message should be seen as "1" in the console
+https://screencast.com/t/zam8kbHJ
